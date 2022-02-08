@@ -1,7 +1,5 @@
 
-This file contains matlab code for the following article:
- ResNet50
-
+This file contains matlab code for the following article: ResNet50
 Load Images   
 Load pretrained Network
 Pre-process Images For CNN
@@ -11,7 +9,7 @@ Evaluate Classifier
 Apply the Trained Classifier On One Test Image
 Make a prediction using the classifier.
 
-ResNet50 for Marathi Handwritten Numbers implemented by Vrushali Lanjewar
+ResNet50 for Marathi Handwritten Numbers implemented by Vrushali Lanjewar in MATLAB R2019a
 
 
 
