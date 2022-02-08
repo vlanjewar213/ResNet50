@@ -1,5 +1,5 @@
 
-This file contains matlab code for the following article: ResNet50
+This file contains matlab code for the following article: ResNet50 for Marathi Numbers
 
 •	Load Images   
 •	Load pretrained Network
